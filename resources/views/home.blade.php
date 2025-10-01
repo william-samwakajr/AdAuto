@@ -1,5 +1,12 @@
-
+@auth
+            <x-dashboard>
+            </x-dashboard>
+@else
 <x-layout>
+        
+        
+            
+        
             <div class="hero bg-base-200 ">
                 <div class="hero-content text-center">
                     <div class="max-w-md">
@@ -59,6 +66,9 @@
                             </div>
                 
             </div>
-        </x-layout>      
+        
+ </x-layout>  
+ 
+ @endauth    
         
    

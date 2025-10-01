@@ -17,7 +17,7 @@
                         <div class="card-body">
                             <h1 class="text-2xl font-bold text-center mb-3"> Local Staff Login</h1>
 
-                            <form method="POST" action="/register">
+                            <form method="POST" action="/login">
                                 @csrf
                                 <!-- Email -->
                                 <label class="floating-label mb-6">
