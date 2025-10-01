@@ -1,5 +1,5 @@
 
-        <x-layout>
+<x-layout>
             <div class="hero bg-base-200 ">
                 <div class="hero-content text-center">
                     <div class="max-w-md">
